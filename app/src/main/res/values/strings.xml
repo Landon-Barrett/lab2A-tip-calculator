@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CS 408 Lab2A Tip Calculator</string>
+    <string name="total_bill_label">Total Bill:</string>
+    <string name="tip_percentage_label">Tip Percentage:</string>
+    <string name="total_people_label">Number of People:</string>
+    <string name="calculate_button">Calculate</string>
+    <string name="total_bill_hint">Enter total</string>
+    <string name="tip_percentage_hint">Enter percentage</string>
+    <string name="total_people_hint">Total People</string>
+    <string name="tip_output">Total Per Person:</string>
+</resources>
